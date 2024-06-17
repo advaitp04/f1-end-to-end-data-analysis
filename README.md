@@ -1,4 +1,4 @@
-# f1-end-to-end-data-analysis
+# f1-data-engineering-project
 
 helpful links:
 https://www.dataengineeringacademy.com/2020/12/how-to-query-postgresql-with-athena/
